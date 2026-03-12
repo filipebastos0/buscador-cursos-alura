@@ -1,0 +1,11 @@
+#Dependências do Composer
+/vendor/
+
+# Configurações locais do VSCode
+.vscode/
+
+#Arquivo de configuração do Phan
+/.phan/
+
+#Testes
+/tests/
