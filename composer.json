@@ -1,5 +1,5 @@
 {
-    "name": "filipebastos0/buscador-cursos",
+    "name": "filipebastos0/buscador-cursos-alura",
     "description": "Projeto que busca os cursos no site da Alura",
     "type": "library",
     "autoload": {
