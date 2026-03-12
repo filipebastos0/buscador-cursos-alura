@@ -1,6 +1,7 @@
 {
     "name": "filipebastos0/buscador-cursos-alura",
-    "description": "Projeto que busca os cursos no site da Alura",
+    "description": "Projeto que busca os cursos no site da Alura",    
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
