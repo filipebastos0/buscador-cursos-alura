@@ -66,23 +66,11 @@ foreach ($cursos as $curso) {
 
 Após instalar as dependências, também é possível executar o buscador diretamente pelo terminal utilizando o arquivo binário do projeto:
 
-   vendor/bin/buscar-cursos.php.bat
+```bash
+vendor/bin/buscar-cursos.php.bat
+```
 
 O comando irá acessar a página informada e listar no terminal os cursos encontrados.
-
-## 🧪 Testes e análise de código
-
-Para executar os testes automatizados:
-
-```bash
-vendor/bin/phpunit
-```
-
-Ou utilize o comando do Composer que executa **testes + análise estática do código**:
-
-```bash
-composer check
-```
 
 ## 🎯 Objetivo do projeto
 
